@@ -1,0 +1,10 @@
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\bin\Debug\aplikasi_UKK.exe.config
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\bin\Debug\aplikasi_UKK.exe
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\bin\Debug\aplikasi_UKK.pdb
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\obj\Debug\aplikasi_UKK.csproj.AssemblyReference.cache
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\obj\Debug\aplikasi_UKK.Form1.resources
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\obj\Debug\aplikasi_UKK.Properties.Resources.resources
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\obj\Debug\aplikasi_UKK.csproj.GenerateResource.cache
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\obj\Debug\aplikasi_UKK.csproj.CoreCompileInputs.cache
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\obj\Debug\aplikasi_UKK.exe
+D:\SMK\UKK PBO_Shabrina\aplikasi_UKK\aplikasi_UKK\obj\Debug\aplikasi_UKK.pdb
